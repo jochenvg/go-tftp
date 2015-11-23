@@ -5,7 +5,7 @@ A Go TFTP library
 
 ## Supported RFCs
 | Supported |Number | Title | Authors | Date | More Info | Status
-|------
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ 
 | | RFC 783 | TFTP Protocol (revision 2) | K.R. Sollins | June 1981 | Obsoletes IEN 133, Obsoleted by RFC 1350, Errata |Unknown
 | | RFC 1350 a.k.a. STD 33 | The TFTP Protocol (Revision 2) | K. Sollins | July 1992 | Obsoletes RFC 783, Updated by RFC 1782, RFC 1783, RFC 1784, RFC 1785, RFC 2347, RFC 2348, RFC 2349, Errata | Internet Standard
 | | RFC 1782 | TFTP Option Extension | G. Malkin, A. Harkin | March 1995 | Obsoleted by RFC 2347, Updates RFC 1350 | Proposed Standard
